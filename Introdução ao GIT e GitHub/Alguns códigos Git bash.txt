@@ -1,0 +1,8 @@
+Ctrl + L = limpa a tela
+Git clone + (https ou ssh ou CLI)
+Git status
+Cd + (nome da pasta)
+Cd ..
+Git add .
+Git commit -m “texto de apresentação”
+Git push origin main
